@@ -25,7 +25,7 @@
 
 - 📄 Know about my experiences [https://www.freelancer.com/u/devshajdul](https://www.freelancer.com/u/devshajdul)
 
-- ⚡ Fun fact **A Web Page can Have Over 10000 Link of co**
+- ⚡ Fun fact **A Web Page can Have Over 10000 Link of code**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
