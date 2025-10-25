@@ -1,4 +1,4 @@
-<img src="https://media.licdn.com/dms/image/v2/D4E16AQHa921ppbHWjQ/profile-displaybackgroundimage-shrink_350_1400/B4EZiKqCmfGwAY-/0/1754672936769?e=1757548800&v=beta&t=nVxAR6nkojg5F3BWhSNXb1LonZrpsVDIDohHL9fi9Q4">
+<img sro="https://media.licdn.com/dms/image/v2/D4E16AQHa921ppbHWjQ/profile-displaybackgroundimage-shrink_350_1400/B4EZiKqCmfGwAY-/0/1754672936769?e=1762992000&v=beta&t=gEIJEUBON6CJMh1Q_Ox8OzhBcKiIcUUbSnknwW8CWmY">
 <h1 align="center">Hello 👋, I'm Shajdul Islam</h1>
 <h3 align="center">Passionate Web Developer/Clean code/Web Solutions/Beautifu</h3>
 
